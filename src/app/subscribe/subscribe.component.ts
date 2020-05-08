@@ -19,7 +19,7 @@ export class SubscribeComponent implements OnInit {
   fetchPricingPlans() {
     this.pricingService.getAllPricingPlans().subscribe(data => {
       this.pricingPlans = data;
-    })
+    });
   }
 
   subscribe(id: number, planName: string) {
