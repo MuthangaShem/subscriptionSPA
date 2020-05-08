@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Mock API 
+
+The Mock API server is built using [json-server](https://www.npmjs.com/package/json-server). Make sure it is installed before running the Mock API commands.
+
+Run `yarn run api` for a mock API server. Navigate to `http://localhost:3000` to view all the API endpoints.
+`http://localhost:3000/subscriptions` is the endpoint to make a POST request when subscribing to a plan.
+`http://localhost:3000/plans` is the endpoint to make a GET request to display the subscription plans on the subscribe page.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.

@@ -1,57 +1,5 @@
 {
   "subscriptions": [
-    {
-      "name": "tabitha",
-      "password": "password",
-      "id": 1
-    },
-    {
-      "planId": 3,
-      "userId": 49,
-      "id": 2
-    },
-    {
-      "planId": 3,
-      "userId": 49,
-      "id": 3
-    },
-    {
-      "planId": 2,
-      "userId": 49,
-      "id": 4
-    },
-    {
-      "planId": 3,
-      "userId": 49,
-      "id": 5
-    },
-    {
-      "planId": 2,
-      "userId": 49,
-      "id": 6
-    },
-    {
-      "planId": 2,
-      "userId": 49,
-      "id": 7
-    },
-    {
-      "planId": 1,
-      "userId": 49,
-      "id": 8
-    },
-    {
-      "planId": 2,
-      "planName": "Silver",
-      "userId": 49,
-      "id": 9
-    },
-    {
-      "planId": 1,
-      "planName": "Bronze",
-      "userId": 49,
-      "id": 10
-    }
   ],
   "plans": [
     {
