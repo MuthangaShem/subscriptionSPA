@@ -1,0 +1,76 @@
+{
+  "subscriptions": [
+    {
+      "name": "tabitha",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "planId": 3,
+      "userId": 49,
+      "id": 2
+    },
+    {
+      "planId": 3,
+      "userId": 49,
+      "id": 3
+    },
+    {
+      "planId": 2,
+      "userId": 49,
+      "id": 4
+    },
+    {
+      "planId": 3,
+      "userId": 49,
+      "id": 5
+    },
+    {
+      "planId": 2,
+      "userId": 49,
+      "id": 6
+    },
+    {
+      "planId": 2,
+      "userId": 49,
+      "id": 7
+    },
+    {
+      "planId": 1,
+      "userId": 49,
+      "id": 8
+    },
+    {
+      "planId": 2,
+      "planName": "Silver",
+      "userId": 49,
+      "id": 9
+    },
+    {
+      "planId": 1,
+      "planName": "Bronze",
+      "userId": 49,
+      "id": 10
+    }
+  ],
+  "plans": [
+    {
+      "id": 1,
+      "name": "Bronze",
+      "price": "9.99",
+      "storage": "10GB"
+    },
+    {
+      "id": 2,
+      "name": "Silver",
+      "price": "24.99",
+      "storage": "25GB"
+    },
+    {
+      "id": 3,
+      "name": "Gold",
+      "price": "49.99",
+      "storage": "50GB"
+    }
+  ]
+}
